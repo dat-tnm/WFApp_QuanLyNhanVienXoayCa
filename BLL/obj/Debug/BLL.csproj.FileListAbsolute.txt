@@ -1,0 +1,8 @@
+C:\C# project\QLNhanVien_XoayCa\BLL\bin\Debug\BLL.dll
+C:\C# project\QLNhanVien_XoayCa\BLL\bin\Debug\BLL.pdb
+C:\C# project\QLNhanVien_XoayCa\BLL\bin\Debug\DAL.dll
+C:\C# project\QLNhanVien_XoayCa\BLL\bin\Debug\DAL.pdb
+C:\C# project\QLNhanVien_XoayCa\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\C# project\QLNhanVien_XoayCa\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\C# project\QLNhanVien_XoayCa\BLL\obj\Debug\BLL.dll
+C:\C# project\QLNhanVien_XoayCa\BLL\obj\Debug\BLL.pdb
